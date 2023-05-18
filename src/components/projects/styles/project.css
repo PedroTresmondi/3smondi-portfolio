@@ -12,7 +12,7 @@
 }
 
 .project:hover {
-	background: #fafafa;
+	background: #3072c3;
 	opacity: 1;
 	transition: background-color 0.3s ease-in-out;
 }
@@ -27,7 +27,7 @@
 }
 
 .project-logo {
-	width: 30px;
+	width: 60px;
 }
 
 .project-logo img {
