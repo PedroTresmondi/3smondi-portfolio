@@ -23,11 +23,18 @@ const INFO = {
 		"Um engenheiro de software habilidades em JavaScript, Node.js, React.JS e AWS. Trabalho em projetos internos, aplicando metodologias ágeis como Scrum e desenvolvendo soluções inovadoras. Também sou designer gráfico freelancer com experiência em Adobe Illustrator e Photoshop. Atualmente, estou cursando Análise de Sistemas de Computação na São Paulo Tech School, adquirindo conhecimentos em diversas tecnologias como HTML, Java, JavaScript, SQL, Bootstrap, React, AWS e Azure. Estou animado para aplicar minhas habilidades em projetos desafiadores e inovadores."},
 	projects: [
 		{
-			title: "Projeto em desenvolvimento 🚧👷",
-			description:
-				"",
-			logo: "",
-			linkText: "",
+			title: "Befit MobileApp",
+			description:"Projeto feito em grupo na faculdade. No mobile nativo o usuario consegue levar seus treinos para qualquer lugar e ainda encontrar academias proximas, selecionando uma variedade de exercícios disponíveis. ",
+			logo: "../logo-befit.png",
+			linkText: "Projeto no GitHub",
+			link:"https://github.com/PedroTresmondi/BefitMobileApp",
+		},
+		{
+			title: "Befit Web",
+			description:"Projeto feito em grupo na faculdade. Com o Befit, os usuários podem criar treinos personalizados na versão web do aplicativo, selecionando uma variedade de exercícios disponíveis. ",
+			logo: "../logo-befit-azul.png",
+			linkText: "Projeto no GitHub",
+			link:"https://github.com/PedroTresmondi/BefitMobileApp",
 		},
 	],
 	contact: [
