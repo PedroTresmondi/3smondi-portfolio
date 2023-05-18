@@ -34,7 +34,7 @@ const INFO = {
 			description:"Projeto feito em grupo na faculdade. Com o Befit, os usuários podem criar treinos personalizados na versão web do aplicativo, selecionando uma variedade de exercícios disponíveis. ",
 			logo: "../logo-befit-azul.png",
 			linkText: "Projeto no GitHub",
-			link:"https://github.com/PedroTresmondi/BefitMobileApp",
+			link:"https://github.com/SPTechBeFit/BeFit/tree/develop",
 		},
 	],
 	contact: [
