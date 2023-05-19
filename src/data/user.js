@@ -24,14 +24,14 @@ const INFO = {
 	projects: [
 		{
 			title: "Befit MobileApp",
-			description:"Projeto feito em grupo na faculdade. No mobile nativo o usuario consegue levar seus treinos para qualquer lugar e ainda encontrar academias proximas, selecionando uma variedade de exercícios disponíveis. ",
+			description:"Projeto feito em grupo na faculdade. No mobile nativo o usuario consegue levar seus treinos e dietas para qualquer lugar e ainda encontrar academias proximas. ",
 			logo: "../logo-befit.png",
 			linkText: "Projeto no GitHub",
 			link:"https://github.com/PedroTresmondi/BefitMobileApp",
 		},
 		{
 			title: "Befit Web",
-			description:"Projeto feito em grupo na faculdade. Com o Befit, os usuários podem criar treinos personalizados na versão web do aplicativo, selecionando uma variedade de exercícios disponíveis. ",
+			description:"Projeto feito em grupo na faculdade. Com o Befit, os usuários podem criar treinos personalizados na versão web do aplicativo. ",
 			logo: "../logo-befit-azul.png",
 			linkText: "Projeto no GitHub",
 			link:"https://befit-6b9r34j7u-befit.vercel.app/",
