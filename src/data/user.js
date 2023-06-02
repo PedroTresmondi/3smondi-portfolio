@@ -34,7 +34,7 @@ const INFO = {
 			description:"Projeto feito em grupo na faculdade. Com o Befit, os usuários podem criar treinos personalizados na versão web do aplicativo. ",
 			logo: "../logo-befit-azul.png",
 			linkText: "Projeto no GitHub",
-			link:"https://befit-6b9r34j7u-befit.vercel.app/",
+			link:"https://github.com/SPTechBeFit/BeFit/tree/develop",
 		},
 	],
 	contact: [
