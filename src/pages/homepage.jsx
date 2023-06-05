@@ -94,6 +94,9 @@ const Homepage = () => {
 					<div className="homepage-container" id="home">
 						<div className="homepage-first-area">
 							<div className="homepage-first-area-left-side">
+								<div className="subtitle homepage-introduction">
+									{INFO.homepage.introduction}
+								</div>
 								<div className="title homepage-title">
 									{INFO.homepage.title}
 								</div>
@@ -107,7 +110,7 @@ const Homepage = () => {
 								<div className="homepage-image-container">
 									<div className="homepage-image-wrapper">
 										<FloatingImage
-											src="pedro-tresmondi.jpg"
+											src="pedro-tresmondi.png"
 											alt="about"
 											style={floatAnimation}
 										/>

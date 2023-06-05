@@ -12,9 +12,10 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Desenvolvedor Front-End e entusiasta de UX 👋",
+		title: "Dev Front-End e entusiasta de UX ",
+		introduction: "Me chamo Pedro Tresmondi👋",
 		description:
-			"Me chamo Pedro Tresmondi. Um desenvolvedor Front-end localizado em São Paulo, Brasil 📍"
+			"Localizado em São Paulo, Brasil 📍"
 	},//Possuo habilidades em JavaScript, Node.js, React.JS, AWS e UI/UX. Desenvolvo soluções de software inovadoras, incluindo aplicativos web eficientes e soluções em nuvem confiáveis. Estou preparado para projetos desafiadores e inovadores durante minha jornada de trabalho.
 
 	about: {

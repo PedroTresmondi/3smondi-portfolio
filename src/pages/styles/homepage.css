@@ -27,6 +27,11 @@
 	width: 85% !important;
 }
 
+.homepage-title2 {
+	width: 85% !important;
+}
+
+
 .homepage-subtitle {
 	width: 85% !important;
 }
@@ -150,6 +155,11 @@
 	}
 
 	.homepage-subtitle {
+		width: 100% !important;
+		margin-top: 10px;
+		order: 3;
+	}
+	.homepage-introduction {
 		width: 100% !important;
 		margin-top: 10px;
 		order: 3;
