@@ -29,12 +29,31 @@
 	padding: 30px;
 }
 
+
+.project-info{
+	display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+}
 .project-logo {
 	width: 60px;
+	margin-right: 30px;
 }
 
 .project-logo img {
 	width: 100%;
+}
+
+.project-stacks {
+	display: flex;
+    width: 30px;
+    
+}
+
+.project-stacks img {
+	width: 100%;
+	margin-right: 10px;
 }
 
 .project-title {
@@ -87,6 +106,12 @@
 
 @media (max-width: 600px) {
 	.project {
-		height: 300px;
+		height: 100%;
+		overflow: auto;
+	}
+	.project-stacks {
+		display: flex;
+		width: 20px;
+		
 	}
 }

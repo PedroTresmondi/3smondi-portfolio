@@ -37,6 +37,10 @@
 	width: 80% !important;
 }
 
+.about-education {
+	width: 80% !important;
+}
+
 .about-left-side {
 	display: flex;
 	flex-direction: column;
@@ -79,6 +83,10 @@
 	}
 
 	.about-subtitle {
+		padding-top: 20px !important;
+	}
+
+	.about-education {
 		padding-top: 20px !important;
 	}
 

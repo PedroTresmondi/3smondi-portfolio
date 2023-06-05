@@ -22,12 +22,8 @@ const Projects = () => {
 					<div className="projects-container">
 						<div className="title projects-title">
 						</div>
-
 						<div className="subtitle projects-subtitle">
-					
-					
 						</div>
-
 						<div className="projects-list">
 							<AllProjects />
 						</div>
