@@ -23,7 +23,7 @@ const INFO = {
 		description:
 			"Com habilidades em JavaScript, Node.js, React.JS e AWS. Trabalho em projetos internos, aplicando metodologias ágeis como Scrum e desenvolvendo soluções inovadoras. Também sou designer gráfico freelancer com experiência em Adobe Illustrator e Photoshop. Animado para aplicar minhas habilidades em projetos desafiadores e inovadores.",
 		description2:
-			"Atualmente, estou cursando Análise de Sistemas de Computação na São Paulo Tech School, adquirindo conhecimentos em diversas tecnologias como monitoração de sistemas com dashboardsHTML, Java, JavaScript, SQL, Bootstrap, React, AWS e Azure. "
+			"Atualmente, estou cursando Análise de Sistemas de Computação na São Paulo Tech School, adquirindo conhecimentos em diversas tecnologias como monitoração de sistemas com dashboards, HTML, Java, JavaScript, SQL, Bootstrap, React, AWS e Azure. "
 	},
 	projects: [
 		{
