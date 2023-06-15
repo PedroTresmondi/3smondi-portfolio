@@ -27,6 +27,16 @@ const INFO = {
 	},
 	projects: [
 		{
+			title: "Mebous Shop",
+			description: "Loja online ficticia feita em NextJs com TailWindCSS e Stripe",
+			logo: "../mebous-logo.png",
+			stackUsed1: "../assets/icons/nextjs.svg",
+			stackUsed2: "../assets/icons/js.svg",
+			stackUsed3: "../assets/icons/tailwind.svg",
+			linkText: "Entrar na loja",
+			link: "https://mebous-virtual-shop.vercel.app/",
+		},
+		{
 			title: "Befit MobileApp",
 			description: "Projeto feito em grupo na faculdade. No mobile nativo o usuario consegue levar seus treinos e dietas para qualquer lugar e ainda encontrar academias proximas. ",
 			logo: "../logo-befit.png",
