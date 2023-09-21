@@ -12,7 +12,7 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Dev Front-End e entusiasta de UX ",
+		title: "Desenvolvedor e entusiasta de UX ",
 		introduction: "Me chamo Pedro Tresmondi👋",
 		description:
 			"Localizado em São Paulo, Brasil 📍"
